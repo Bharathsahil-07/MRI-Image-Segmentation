@@ -222,7 +222,7 @@ If you use this code in your research, please cite:
 
 For questions, issues, or collaboration opportunities:
 - GitHub: [@Bharathsahil-07](https://github.com/Bharathsahil-07)
-- Email: [Your Email]
+- Email: [bharathsahil635@gmail.com]
 
 ## References
 
