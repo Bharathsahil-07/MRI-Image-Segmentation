@@ -198,20 +198,6 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@misc{mri_segmentation_2024,
-  author = {Bharathsahil},
-  title = {MRI Image Segmentation for Heart Disease Prediction},
-  year = {2024},
-  publisher = {GitHub},
-  url = {https://github.com/Bharathsahil-07/MRI-Image-Segmentation}
-}
-```
-
 ## Acknowledgments
 
 - Medical imaging datasets provided by [Dataset Source]
@@ -222,7 +208,7 @@ If you use this code in your research, please cite:
 
 For questions, issues, or collaboration opportunities:
 - GitHub: [@Bharathsahil-07](https://github.com/Bharathsahil-07)
-- Email: [bharathsahil635@gmail.com]
+- Email: bharathsahil635@gmail.com
 
 ## References
 
